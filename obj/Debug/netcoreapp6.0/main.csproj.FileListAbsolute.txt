@@ -21,3 +21,10 @@
 /home/runner/Finalwork/obj/Debug/netcoreapp6.0/main.dll
 /home/runner/Finalwork/obj/Debug/netcoreapp6.0/ref/main.dll
 /home/runner/Finalwork/obj/Debug/netcoreapp6.0/main.pdb
+/home/runner/Finalwork/bin/Debug/netcoreapp6.0/main
+/home/runner/Finalwork/bin/Debug/netcoreapp6.0/main.deps.json
+/home/runner/Finalwork/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/home/runner/Finalwork/bin/Debug/netcoreapp6.0/main.dll
+/home/runner/Finalwork/bin/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/Finalwork/bin/Debug/netcoreapp6.0/main.pdb
+/home/runner/Finalwork/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache

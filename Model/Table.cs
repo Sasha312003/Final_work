@@ -1,3 +1,6 @@
+using System;
+
+
 namespace Final_work.Model
 {
     public class Table

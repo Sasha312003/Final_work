@@ -1,3 +1,5 @@
+
+
 namespace Final_work.Model
 {
     public class StandardGame : GameType // наслідуєм абстрактний клас GameType
